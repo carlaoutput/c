@@ -1,4 +1,4 @@
-# c++
+# OOP concepts in c++
 
 Practica de OOP en C++ (Basic Concepts) 
 
