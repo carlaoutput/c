@@ -1,3 +1,6 @@
+/*
+Reference: Textbook: Absolute C++, 6th ed., Walter Savitch., Addison-Wesley ISBN: 0133970787
+*/
 #include <iostream>
 #include <cstring>
 #include "flex.h" 
