@@ -1,6 +1,9 @@
+/*
+Carla Pastor
+*/
+
 #include <iostream>
 using namespace std;
-
 
 class Flex
 {
