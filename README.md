@@ -1,9 +1,6 @@
 # c++
 
+Practica de OOP en C++
 
-Carla Pastor
-
-Practicas en C++
-
-Textbook: Absolute C++, 6th ed., Walter Savitch., Addison-Wesley 
+Usando el Textbook: Absolute C++, 6th ed., Walter Savitch., Addison-Wesley 
 ISBN: 0133970787
